@@ -10,7 +10,7 @@ Machine Learning Project _ Development of Knowledge Industry Center Fit Measurem
 - 기술 스택: Python
 
 
-- 주요 내용 (아직안함)
+- 주요 내용
   - python을 활용한 데이터 전처리 및 클러스터링(군집화)
   - 지식산업센터를 기준으로 외부/ 내부 변수 / 입주 기업의 특성을 합해서 적합도 점수 산출
   - 랜덤 포레스트, XGBoost + 다중회귀 활용
