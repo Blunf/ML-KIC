@@ -3,9 +3,9 @@ Machine Learning Project _ Development of Knowledge Industry Center Fit Measurem
 
 - 기간: ‘25년 4월 ~ ‘25년 6월(3개월)
 
-- 건국대학교 - 데이터애널리틱스 (윤장혁 교수님)
+- 건국대학교 산업공학과 데이터애널리틱스(윤장혁 교수님)
 
-- 내용 요약 : 데이터 수집, 전처리, 시각화, 결론도출
+- 내용 요약 : 데이터 수집, 전처리, 시각화, 모델 개발 및 결론도출
 
 - 기술 스택: Python
 
