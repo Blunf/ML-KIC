@@ -17,8 +17,7 @@ Machine Learning Project _ Development of Knowledge Industry Center Fit Measurem
 
 
 - 활용 데이터
-  - <전국 편의점 데이터>
-    - 공공데이터 포털 → 소상공인시장진흥공단_상가(상권)정보(2025)
+  - 전국 편의점 데이터 : 공공데이터 포털 → 소상공인시장진흥공단_상가(상권)정보(2025)
 
 
 
