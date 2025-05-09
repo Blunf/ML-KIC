@@ -25,13 +25,13 @@ Machine Learning Project _ Development of Knowledge Industry Center Fit Measurem
 
 ## 개요
 
-### 연구 배경 및 목표
+#### 연구 배경 및 목표
 
-### 데이터 수집 및 전처리(정제)
+#### 데이터 수집 및 전처리(정제)
 
-### 모델 개발 및 성능 분석
+#### 모델 개발 및 성능 분석
 
-### 결과 해석 및 응용
+#### 결과 해석 및 응용
 
 
 <br>
