@@ -36,7 +36,7 @@ Machine Learning Project _ Development of Knowledge Industry Center Fit Measurem
 
 <br>
 
-## 1️⃣ 연구 배경 및 목표
+## 1️⃣ 연구 목표 및 계획
 
 최근 몇 년간 지식산업센터의 공급과 거래는 활발하게 이루어져 왔습니다. 2025년 3월 기준 전국에는 약 1,545개의 지식산업센터가 있고, 2020년과 2021년 매매 거래량과 거래금액 추이를 통해 시장의 성장세를 확인할 수 있습니다.
 
